@@ -4,7 +4,7 @@ This is a simple image gallery project built with HTML and CSS. It presents a co
 
 ## Live Demo
 
-[https://julien-antony20.github.io/image-gallery/]
+[https://juliens-repo.github.io/image-gallery/]
 
 ## Features
 
@@ -19,7 +19,7 @@ This is a simple image gallery project built with HTML and CSS. It presents a co
 
 ## How to Run Locally
 
-1. Clone the repository: `git clone https://github.com/julien-antony20/image-gallery.git`
+1. Clone the repository: `git clone https://github.com/juliens-repo/image-gallery.git`
 2. Open `index.html` in your web browser.
 
 ## Project Structure
